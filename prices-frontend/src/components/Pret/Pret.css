@@ -1,0 +1,47 @@
+.pretContainer {
+    margin-top:3rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color:black;
+    margin-bottom:3rem;
+    background-color: white;
+    height:30vh;
+    text-align: center;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    /* box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset; */
+}
+
+.afla {
+    font-size:2.5rem;
+}
+
+.pret {
+    font-size:4rem;
+}
+
+.react-reel__group {
+    transition-delay: 0ms;
+    transition-timing-function: ease-in-out;
+    transform: translate(0, 0);
+  }
+  
+  .react-reel__group .react-reel__number {
+    height: 1em;
+  }
+  
+  .react-reel__reel {
+    height: 1em;
+    display: flex;
+    align-items: flex-end;
+    overflow-y: hidden;
+  
+    /** CUSTOMISE BELOW */
+    font-size: 8rem;
+    font-weight: bold;
+    line-height: 0.95em; /* adjusted for Lato font */
+    max-width: 100%;
+    margin: 0 auto;
+    justify-content: center;
+    
+  }

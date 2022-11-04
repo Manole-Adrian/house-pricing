@@ -1,0 +1,21 @@
+.intrebariContainer {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.accordionChild {
+    margin-top:1rem;
+}
+
+.buttonContainer {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:3rem;
+    
+}
+
+.formContainer {
+    margin-bottom:3rem;
+}
